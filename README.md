@@ -1,4 +1,4 @@
-## couchbase_scripts
+## couchbase_manager
 some scripts for couchbase
 
 ## backup
